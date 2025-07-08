@@ -57,7 +57,7 @@ Summary Page --
 
 🧑‍💼 Occupation plays a major role in financial behavior (loan/deposit).
 
-#🔧 Tools & Technologies:
+# 🔧 Tools & Technologies:
 
 * Power BI	Data modeling, visualization
 
