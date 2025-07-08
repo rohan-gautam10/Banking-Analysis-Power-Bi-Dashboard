@@ -4,7 +4,7 @@ This project showcases a comprehensive Banking Analysis Dashboard created in Pow
 # Overview:
 The dashboard provides a clear and interactive interface for stakeholders to explore key banking metrics. By leveraging dynamic visuals, filters, and slicers, it allows decision-makers to uncover trends, compare segments, and monitor performance KPIs effectively.
 
-#Dataset Details:
+# Dataset Details:
 The analysis is powered by multiple structured .csv files:
 
 File Name	Description
@@ -13,7 +13,7 @@ banking-realationships.csv	Type of banking relationships (Retail, Institutional,
 gender.csv	Gender categorization for segmentation
 investment-advisors.csv	Assigned investment advisors per client
 
-#Dashboard Pages & Features:
+# Dashboard Pages & Features:
 Home Page --
 * Year & Gender slicers for interactive filtering
 * KPIs:
