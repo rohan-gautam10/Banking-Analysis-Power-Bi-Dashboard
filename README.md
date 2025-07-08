@@ -58,10 +58,15 @@ Summary Page --
 🧑‍💼 Occupation plays a major role in financial behavior (loan/deposit).
 
 🔧# Tools & Technologies:
+
 Tool	Purpose
+
 Power BI	Data modeling, visualization
+
 Power Query	Data transformation
+
 DAX	Measures & KPIs
+
 CSV Files	Data Source
 
 # Sample DAX Measures:
