@@ -48,3 +48,31 @@ Summary Page --
 * Deposit by Gender and Relationship
 * Top 10 income bands by Net Balance
 
+# Key Insights:
+📈 High-Income groups dominate both loans and deposits.
+
+🏦 Private and Retail Banking show the largest deposit volumes.
+
+📉 Net Balance trends vary sharply year over year, showing fluctuations in savings vs lending.
+
+🧑‍💼 Occupation plays a major role in financial behavior (loan/deposit).
+
+🔧# Tools & Technologies:
+Tool	Purpose
+Power BI	Data modeling, visualization
+Power Query	Data transformation
+DAX	Measures & KPIs
+CSV Files	Data Source
+
+# Sample DAX Measures:
+Net Balance = SUM('Deposit') - SUM('Loan')
+
+Total Customers = DISTINCTCOUNT(ClientID)
+
+Deposit vs Loan % = 
+DIVIDE(SUM('Loan'), SUM('Deposit'), 0)
+
+Avg Savings = AVERAGE('SavingsAccount')
+
+
+
