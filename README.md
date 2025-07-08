@@ -8,10 +8,10 @@ The dashboard provides a clear and interactive interface for stakeholders to exp
 The analysis is powered by multiple structured .csv files:
 
 File Name	Description
-banking-clients.csv	Client information and demographics
-banking-realationships.csv	Type of banking relationships (Retail, Institutional, etc.)
-gender.csv	Gender categorization for segmentation
-investment-advisors.csv	Assigned investment advisors per client
+banking-clients.csv    ----    Client information and demographics
+banking-realationships.csv    ----    Type of banking relationships (Retail, Institutional, etc.)
+gender.csv    ----    Gender categorization for segmentation
+investment-advisors.csv    ----    Assigned investment advisors per client
 
 # Dashboard Pages & Features:
 Home Page --
