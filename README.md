@@ -59,15 +59,13 @@ Summary Page --
 
 🔧# Tools & Technologies:
 
-Tool	Purpose
+* Power BI	Data modeling, visualization
 
-Power BI	Data modeling, visualization
+* Power Query	Data transformation
 
-Power Query	Data transformation
+* DAX	Measures & KPIs
 
-DAX	Measures & KPIs
-
-CSV Files	Data Source
+* CSV Files	Data Source
 
 # Sample DAX Measures:
 Net Balance = SUM('Deposit') - SUM('Loan')
